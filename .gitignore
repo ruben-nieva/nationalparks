@@ -1,0 +1,9 @@
+ .iml
+.idea/
+*.DS_Store
+target/
+/.idea/
+/nationalparks.iml
+/openshift3nationalparks.iml
+/out/
+/deployments/

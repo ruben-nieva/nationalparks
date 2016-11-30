@@ -1,0 +1,5 @@
+user=readwriter
+password=XXXXXX
+database=root
+servers=cluster0-shard-00-00-dk9nc.mongodb.net:27017,cluster0-shard-00-01-dk9nc.mongodb.net:27017,cluster0-shard-00-02-dk9nc.mongodb.net:27017
+replicaset=Cluster0-shard-0
